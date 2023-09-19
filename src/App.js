@@ -1,5 +1,5 @@
 import LineChart from "./LineChart";
-import { Nav } from "./Nav";
+import Nav from "./Nav";
 
 function App() {
   return (
