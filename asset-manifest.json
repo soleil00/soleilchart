@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/soleilapp/static/css/main.e6c13ad2.css",
+    "main.js": "/soleilapp/static/js/main.9984daec.js",
+    "index.html": "/soleilapp/index.html",
+    "main.e6c13ad2.css.map": "/soleilapp/static/css/main.e6c13ad2.css.map",
+    "main.9984daec.js.map": "/soleilapp/static/js/main.9984daec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9984daec.js"
+  ]
+}
